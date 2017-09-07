@@ -2,10 +2,10 @@
 
 @font-face {
     font-family: 'birminghamregular';
-    src: url('./birmingham.eot');
-    src: url('./birmingham.eot?#iefix') format('embedded-opentype'),
-         url('./birmingham.woff2') format('woff2'),
-         url('./birmingham.woff') format('woff');
+  src: url('https://github.com/gimmyvd/1ms_test/blob/master/fonts/birmingham/birmingham.eot');
+  src: url('https://github.com/gimmyvd/1ms_test/blob/master/fonts/birmingham/birmingham.eot?#iefix') format('embedded-opentype'),
+      url('https://github.com/gimmyvd/1ms_test/blob/master/fonts/birmingham/birmingham.woff2') format('woff2'),
+      url('https://github.com/gimmyvd/1ms_test/blob/master/fonts/birmingham/birmingham.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -14,10 +14,10 @@
 
 @font-face {
     font-family: 'birminghamboldregular';
-    src: url('./birminghambold.eot');
-    src: url('./birminghambold.eot?#iefix') format('embedded-opentype'),
-         url('./birminghambold.woff2') format('woff2'),
-         url('./birminghambold.woff') format('woff');
+  src: url('https://github.com/gimmyvd/1ms_test/blob/master/fonts/birmingham/birminghambold.eot');
+  src: url('https://github.com/gimmyvd/1ms_test/blob/master/fonts/birmingham/birminghambold.eot?#iefix') format('embedded-opentype'),
+      url('https://github.com/gimmyvd/1ms_test/blob/master/fonts/birmingham/birminghambold.woff2') format('woff2'),
+      url('https://github.com/gimmyvd/1ms_test/blob/master/fonts/birmingham/birminghambold.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
